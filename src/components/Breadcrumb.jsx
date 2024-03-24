@@ -33,27 +33,27 @@ const Breadcrumb = ({ data }) => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/84_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/04_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

@@ -18,7 +18,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/01_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -27,7 +27,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -67,7 +67,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/02_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -76,7 +76,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -116,7 +116,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/03_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -125,7 +125,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -165,7 +165,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/04_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -174,7 +174,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -214,7 +214,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/05_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -223,7 +223,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -263,7 +263,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/06_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -272,7 +272,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -312,7 +312,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/07_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -321,7 +321,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -361,7 +361,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/08_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -370,7 +370,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -410,7 +410,7 @@ const BlogGridSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/09_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -419,7 +419,7 @@ const BlogGridSection = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -489,25 +489,25 @@ const BlogGridSection = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/26_icon.png" alt="" />
+            <img src="/assets/img/icon/26_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

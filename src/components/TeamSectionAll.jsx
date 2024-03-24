@@ -18,7 +18,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/01_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -58,7 +58,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/02_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -98,7 +98,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/03_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -138,7 +138,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/04_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -178,7 +178,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/05_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -218,7 +218,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/06_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -258,7 +258,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/07_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -298,7 +298,7 @@ const TeamSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/team/08_team.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay">
                     <div className="inner-data">
@@ -368,25 +368,25 @@ const TeamSectionAll = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

@@ -16,7 +16,7 @@ const ProjectSectionThree = () => {
               >
                 <h3>Our Completed Projects</h3>
                 <h2>
-                  Start off AI project to your <br />{" "}
+                  Start off AI project to your <br />
                   <span className="theme-color">Strengths</span>
                 </h2>
                 <p>
@@ -39,7 +39,7 @@ const ProjectSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/10_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <div className="inner">
@@ -67,7 +67,7 @@ const ProjectSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/11_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <div className="inner">
@@ -95,7 +95,7 @@ const ProjectSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/12_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <div className="inner">
@@ -123,7 +123,7 @@ const ProjectSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/13_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <div className="inner">
@@ -154,17 +154,17 @@ const ProjectSectionThree = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/shape/14_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/03_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/89_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

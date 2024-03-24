@@ -8,6 +8,8 @@ import ProjectSectionTwo from "@/components/ProjectSectionTwo";
 import ServiceSectionTwo from "@/components/ServiceSectionTwo";
 import SliderTwo from "@/components/SliderTwo";
 import TestimonialSectionTwo from "@/components/TestimonialSectionTwo";
+import Animation from "@/elements/Animation";
+import Preloader from "@/elements/Preloader";
 import { Fragment } from "react";
 
 export const metadata = {
@@ -19,6 +21,11 @@ export const metadata = {
 export default function Page() {
   return (
     <Fragment>
+      {/* Preloader */}
+      <Preloader />
+
+      {/* Animation init */}
+      <Animation />
       {/* Header one */}
       <HeaderTwo />
       {/* Slider Two */}

@@ -19,7 +19,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="200"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/31_icon.png" alt="" />
+                    <img src="/assets/img/icon/31_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -41,7 +41,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="300"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/32_icon.png" alt="" />
+                    <img src="/assets/img/icon/32_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -63,7 +63,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="400"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/33_icon.png" alt="" />
+                    <img src="/assets/img/icon/33_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -85,7 +85,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="200"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/34_icon.png" alt="" />
+                    <img src="/assets/img/icon/34_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -107,7 +107,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="300"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/35_icon.png" alt="" />
+                    <img src="/assets/img/icon/35_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -129,7 +129,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="400"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/40_icon.png" alt="" />
+                    <img src="/assets/img/icon/40_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -151,7 +151,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="200"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/85_icon.png" alt="" />
+                    <img src="/assets/img/icon/85_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -173,7 +173,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="300"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/86_icon.png" alt="" />
+                    <img src="/assets/img/icon/86_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -195,7 +195,7 @@ const ServiceSectionAll = () => {
                   data-aos-delay="400"
                 >
                   <div className="img-file">
-                    <img src="/assets/img/icon/87_icon.png" alt="" />
+                    <img src="/assets/img/icon/87_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -213,25 +213,25 @@ const ServiceSectionAll = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

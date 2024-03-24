@@ -17,7 +17,7 @@ const ServiceSectionThree = () => {
               >
                 <h3>ADVANCED SERVICES</h3>
                 <h2>
-                  Our Top Featured Solutions <br /> Transforming{" "}
+                  Our Top Featured Solutions <br /> Transforming
                   <span className="theme-color">AI Enterprises</span>
                 </h2>
               </div>
@@ -68,7 +68,7 @@ const ServiceSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/service/04_service.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                         <div className="text-file">
@@ -85,7 +85,10 @@ const ServiceSectionThree = () => {
                             <Link href="/service-details">Read More</Link>
                           </div>
                           <div className="shape-overlay">
-                            <img src="/assets/img/shape/15_shape.svg" alt="" />
+                            <img
+                              src="/assets/img/shape/15_shape.svg"
+                              alt="FaconTech"
+                            />
                           </div>
                         </div>
                       </div>
@@ -98,7 +101,7 @@ const ServiceSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/service/05_service.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                         <div className="text-file">
@@ -115,7 +118,10 @@ const ServiceSectionThree = () => {
                             <Link href="/service-details">Read More</Link>
                           </div>
                           <div className="shape-overlay">
-                            <img src="/assets/img/shape/15_shape.svg" alt="" />
+                            <img
+                              src="/assets/img/shape/15_shape.svg"
+                              alt="FaconTech"
+                            />
                           </div>
                         </div>
                       </div>
@@ -128,7 +134,7 @@ const ServiceSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/service/06_service.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                         <div className="text-file">
@@ -145,7 +151,10 @@ const ServiceSectionThree = () => {
                             <Link href="/service-details">Read More</Link>
                           </div>
                           <div className="shape-overlay">
-                            <img src="/assets/img/shape/15_shape.svg" alt="" />
+                            <img
+                              src="/assets/img/shape/15_shape.svg"
+                              alt="FaconTech"
+                            />
                           </div>
                         </div>
                       </div>
@@ -158,7 +167,7 @@ const ServiceSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/service/07_service.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                         <div className="text-file">
@@ -175,21 +184,23 @@ const ServiceSectionThree = () => {
                             <Link href="/service-details">Read More</Link>
                           </div>
                           <div className="shape-overlay">
-                            <img src="/assets/img/shape/15_shape.svg" alt="" />
+                            <img
+                              src="/assets/img/shape/15_shape.svg"
+                              alt="FaconTech"
+                            />
                           </div>
                         </div>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    {" "}
                     <div className="swiper-slide">
                       <div className="inner-wrapper ">
                         <div className="img-file">
                           <img
                             className="img-fluid"
                             src="/assets/img/service/08_service.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                         <div className="text-file">
@@ -209,7 +220,7 @@ const ServiceSectionThree = () => {
                             <img
                               className="img-fluid"
                               src="/assets/img/shape/15_shape.svg"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                         </div>
@@ -232,22 +243,22 @@ const ServiceSectionThree = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/96_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/92_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/71_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/77_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

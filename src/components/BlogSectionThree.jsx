@@ -16,7 +16,7 @@ const BlogSectionThree = () => {
               >
                 <h3>Our Latest Blog</h3>
                 <h2>
-                  Find the latest Blogs news <br />{" "}
+                  Find the latest Blogs news <br />
                   <span className="theme-color">from WIRED</span>
                 </h2>
                 <p>
@@ -37,7 +37,7 @@ const BlogSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/15_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -71,7 +71,7 @@ const BlogSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/16_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -105,7 +105,7 @@ const BlogSectionThree = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/17_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -142,32 +142,32 @@ const BlogSectionThree = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/shape/05_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/shape/15_shape.svg"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/69_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/09_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/71_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

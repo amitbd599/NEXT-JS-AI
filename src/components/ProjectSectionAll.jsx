@@ -18,7 +18,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/01_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Robotic Technology</h2>
@@ -46,7 +46,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/02_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Data Science</h2>
@@ -74,7 +74,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/03_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Facing AI Challenges</h2>
@@ -102,7 +102,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/04_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Technical Support</h2>
@@ -130,7 +130,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/05_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Robotic Automation</h2>
@@ -158,7 +158,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/06_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Virtual Reality</h2>
@@ -186,7 +186,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/07_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Support &amp; Services</h2>
@@ -214,7 +214,7 @@ const ProjectSectionAll = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/project/08_project.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div className="shape-overlay poa">
                     <h2>Ai For Cloud Services</h2>
@@ -271,25 +271,25 @@ const ProjectSectionAll = () => {
           </div>
           <div className="shape-image-file">
             <div className="shape-img-1 poa">
-              <img src="/assets/img/icon/21_icon.png" alt="" />
+              <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-2 poa">
-              <img src="/assets/img/icon/64_icon.png" alt="" />
+              <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-4 poa">
-              <img src="/assets/img/icon/08_icon.png" alt="" />
+              <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-5 poa">
-              <img src="/assets/img/icon/78_icon.png" alt="" />
+              <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-6 poa">
-              <img src="/assets/img/icon/43_icon.png" alt="" />
+              <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-7 poa">
-              <img src="/assets/img/icon/68_icon.png" alt="" />
+              <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
             </div>
             <div className="shape-img-8 poa">
-              <img src="/assets/img/icon/71_icon.png" alt="" />
+              <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
             </div>
           </div>
         </div>

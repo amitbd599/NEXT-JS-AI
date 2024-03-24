@@ -18,7 +18,7 @@ const AboutSectionTwo = () => {
                   {"{"} ABOUT COMPANY {"}"}
                 </h3>
                 <h2>
-                  Delivering IT solutions that enable <br /> you to{" "}
+                  Delivering IT solutions that enable <br /> you to
                   <span className="theme-color">work smarter</span>
                 </h2>
                 <p>
@@ -66,7 +66,7 @@ const AboutSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/about/02_about.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
             </div>
@@ -76,57 +76,57 @@ const AboutSectionTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/21_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/90_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/91_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/15_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/27_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/icon/71_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-8 poa"
             src="/assets/img/shape/09_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-9 poa"
             src="/assets/img/icon/44_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-10 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-11 poa"
             src="/assets/img/icon/03_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

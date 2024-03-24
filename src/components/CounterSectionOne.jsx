@@ -27,7 +27,7 @@ const CounterSectionOne = () => {
                 <div className="inner-btn d-adjust">
                   <div>
                     <Link className="default-btn" href="/contact">
-                      Let’s Work To Do{" "}
+                      Let’s Work To Do
                     </Link>
                   </div>
                 </div>
@@ -40,22 +40,22 @@ const CounterSectionOne = () => {
               <img
                 className="shape-1 poa"
                 src="./assets/img/icon/50_icon.png"
-                alt=""
+                alt="FaconTech"
               />
               <img
                 className="shape-2 poa"
                 src="./assets/img/icon/51_icon.png"
-                alt=""
+                alt="FaconTech"
               />
               <img
                 className="shape-3 poa"
                 src="./assets/img/icon/16_icon.png"
-                alt=""
+                alt="FaconTech"
               />
               <img
                 className="shape-4 poa"
                 src="./assets/img/icon/52_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
           </div>
@@ -209,22 +209,22 @@ const CounterSectionOne = () => {
             <img
               className="shape-5 poa"
               src="./assets/img/icon/53_icon.png"
-              alt=""
+              alt="FaconTech"
             />
             <img
               className="shape-6 poa"
               src="./assets/img/icon/15_icon.png"
-              alt=""
+              alt="FaconTech"
             />
             <img
               className="shape-7 poa"
               src="./assets/img/icon/17_icon.png"
-              alt=""
+              alt="FaconTech"
             />
             <img
               className="shape-8 poa"
               src="./assets/img/icon/54_icon.png"
-              alt=""
+              alt="FaconTech"
             />
           </div>
         </div>

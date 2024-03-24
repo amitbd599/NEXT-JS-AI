@@ -69,7 +69,7 @@ const HeaderOne = () => {
                     <img
                       className="img-fluid"
                       src="assets/img/common/logo-white.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </Link>
                 </div>

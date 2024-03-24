@@ -15,7 +15,7 @@ const BlogSectionOne = () => {
               >
                 <h3>Our Latest Blog</h3>
                 <h2>
-                  Find the latest Blogs news <br />{" "}
+                  Find the latest Blogs news <br />
                   <span className="theme-color">from WIRED</span>
                 </h2>
               </div>
@@ -32,7 +32,7 @@ const BlogSectionOne = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/01_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -41,7 +41,7 @@ const BlogSectionOne = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -79,7 +79,7 @@ const BlogSectionOne = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/02_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -88,7 +88,7 @@ const BlogSectionOne = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -126,7 +126,7 @@ const BlogSectionOne = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/03_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="text-file">
@@ -135,7 +135,7 @@ const BlogSectionOne = () => {
                       <div className="dp-img">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                       <div>
@@ -178,32 +178,32 @@ const BlogSectionOne = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/shape/05_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/58_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/59_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/09_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/78_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

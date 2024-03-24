@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, FreeMode, Thumbs, EffectFade } from "swiper";
@@ -21,7 +21,7 @@ const TestimonialSectionOne = () => {
               >
                 <h3>Get Our Awesome Review</h3>
                 <h2>
-                  People’s Say About Our <br />{" "}
+                  People’s Say About Our <br />
                   <span className="theme-color">Support &amp; Services</span>
                 </h2>
               </div>
@@ -70,7 +70,7 @@ const TestimonialSectionOne = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/01_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -109,7 +109,7 @@ const TestimonialSectionOne = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/02_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -142,14 +142,13 @@ const TestimonialSectionOne = () => {
                     </div>
                   </SwiperSlide>
                   <SwiperSlide>
-                    {" "}
                     <div className="swiper-slide">
                       <div className="inner-wrapper">
                         <div className="intro-body">
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/03_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -188,7 +187,7 @@ const TestimonialSectionOne = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/04_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -244,32 +243,32 @@ const TestimonialSectionOne = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/17_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/16_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/15_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/03_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/29_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/41_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

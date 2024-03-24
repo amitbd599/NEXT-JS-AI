@@ -1,4 +1,3 @@
-
 const PriceSectionOne = () => {
   return (
     <>
@@ -14,7 +13,7 @@ const PriceSectionOne = () => {
               >
                 <h3>What We Offer </h3>
                 <h2>
-                  Our Best Pricing Plan <br />{" "}
+                  Our Best Pricing Plan <br />
                   <span className="theme-color">For You</span>
                 </h2>
                 <p>
@@ -48,7 +47,7 @@ const PriceSectionOne = () => {
                         <li className="deep">E-commerce Solutions </li>
                         <li className="deep">Social Media Management </li>
                         <li className="deep">
-                          Video &amp; Animation Production{" "}
+                          Video &amp; Animation Production
                         </li>
                       </ul>
                     </div>
@@ -76,7 +75,7 @@ const PriceSectionOne = () => {
                         <li>E-commerce Solutions </li>
                         <li>Social Media Management </li>
                         <li className="deep">
-                          Video &amp; Animation Production{" "}
+                          Video &amp; Animation Production
                         </li>
                       </ul>
                     </div>
@@ -116,52 +115,52 @@ const PriceSectionOne = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/55_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/47_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/28_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/07_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/15_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/shape/01_shape.svg"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-8 poa"
             src="/assets/img/icon/21_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-9 poa"
             src="/assets/img/icon/17_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-10 poa"
             src="/assets/img/icon/78_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

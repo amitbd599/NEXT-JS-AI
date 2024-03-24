@@ -5,6 +5,8 @@ import FooterSectionOne from "@/components/FooterSectionOne";
 import HeaderOne from "@/components/HeaderOne";
 import NewsSectionOne from "@/components/NewsSectionOne";
 import TestimonialSectionOne from "@/components/TestimonialSectionOne";
+import Animation from "@/elements/Animation";
+import Preloader from "@/elements/Preloader";
 import { Fragment } from "react";
 
 export const metadata = {
@@ -16,6 +18,12 @@ export const metadata = {
 export default function Page() {
   return (
     <Fragment>
+      {/* Preloader */}
+      <Preloader />
+
+      {/* Animation init */}
+      <Animation />
+
       {/* Header one */}
       <HeaderOne />
       {/* Breadcrumb */}

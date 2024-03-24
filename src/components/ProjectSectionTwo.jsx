@@ -17,7 +17,7 @@ const ProjectSectionTwo = () => {
                   {"{"} CASE STUDIES {"}"}
                 </h3>
                 <h2>
-                  Our successful Latest and <br /> Unique{" "}
+                  Our successful Latest and <br /> Unique
                   <span className="theme-color">project</span>
                 </h2>
               </div>
@@ -33,7 +33,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/01_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -41,7 +41,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -60,7 +60,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/02_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -68,7 +68,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -87,7 +87,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/03_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -95,7 +95,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -114,7 +114,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/04_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -122,7 +122,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -141,7 +141,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/05_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -149,7 +149,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -168,7 +168,7 @@ const ProjectSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/06_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <div className="shape-overlay">
                   <h3>
@@ -176,7 +176,7 @@ const ProjectSectionTwo = () => {
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
-                    collection{" "}
+                    collection
                   </p>
                   <div className="d-flex justify-content-center">
                     <Link className="default-btn" href="/project-details">
@@ -199,37 +199,37 @@ const ProjectSectionTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/shape/09_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/78_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/68_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/89_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/shape/05_shape.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

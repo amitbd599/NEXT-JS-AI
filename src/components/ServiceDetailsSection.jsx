@@ -46,7 +46,7 @@ const ServiceDetailsSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/service/02_service.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
               </div>
@@ -61,7 +61,7 @@ const ServiceDetailsSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/service/03_service.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
               </div>
@@ -182,7 +182,7 @@ const ServiceDetailsSection = () => {
                           aria-expanded="false"
                           aria-controls="flush-collapseTwo"
                         >
-                          What is the difference Data Analyst?{" "}
+                          What is the difference Data Analyst?
                         </button>
                       </h2>
                       <div
@@ -232,25 +232,25 @@ const ServiceDetailsSection = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

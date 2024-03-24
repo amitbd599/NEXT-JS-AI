@@ -1,10 +1,15 @@
 "use client";
-import React, { Fragment, Suspense, useEffect, useState } from "react";
+import React, { Fragment } from "react";
 import HeaderOne from "../components/HeaderOne";
 import Link from "next/link";
+import Animation from "@/elements/Animation";
 const Demo = () => {
   return (
     <Fragment>
+      {/* Animation init */}
+      <Animation />
+
+      {/* HeaderOne */}
       <HeaderOne />
       {/* Intro Section Start */}
       <section className="demo-intro" id="intro">
@@ -20,7 +25,7 @@ const Demo = () => {
                   Full Responsive Layout
                 </p>
                 <h2 className="title " data-aos="fade-up" data-aos-delay="400">
-                  FaconTech - AI Technology &amp; IT Solutions HTML Template
+                  FaconTech - AI Technology &amp; IT Solutions NEXT JS Template
                 </h2>
                 <div
                   className="list-data "
@@ -55,23 +60,35 @@ const Demo = () => {
             data-aos="fade-right"
             data-aos-delay="200"
             src="/assets/img/demo/intro-home-1.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 "
             data-aos="fade-left"
             data-aos-delay="200"
             src="/assets/img/demo/intro-home-2.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3"
             src="/assets/img/demo/bootstrap.png"
-            alt=""
+            alt="FaconTech"
           />
-          <img className="shape-4" src="/assets/img/demo/sass.png" alt="" />
-          <img className="shape-5" src="/assets/img/icon/84_icon.png" alt="" />
-          <img className="shape-6" src="/assets/img/icon/48_icon.png" alt="" />
+          <img
+            className="shape-4"
+            src="/assets/img/demo/sass.png"
+            alt="FaconTech"
+          />
+          <img
+            className="shape-5"
+            src="/assets/img/demo/nextjs.png"
+            alt="FaconTech"
+          />
+          <img
+            className="shape-6"
+            src="/assets/img/icon/48_icon.png"
+            alt="FaconTech"
+          />
         </div>
       </section>
       {/* Intro Section end */}
@@ -98,7 +115,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/home-1.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -118,7 +135,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/home-2.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -138,7 +155,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/home-3.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -174,7 +191,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/about.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -194,7 +211,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/team.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -214,7 +231,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/project.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -234,7 +251,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/project-details.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -254,7 +271,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/service.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -274,7 +291,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/service-details.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -294,7 +311,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/price.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -314,7 +331,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/review.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -334,7 +351,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/faq.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -354,7 +371,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/blog.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -374,7 +391,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/blog-grid-sidebar.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -394,7 +411,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/blog-details.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -414,7 +431,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/contact.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">
@@ -434,7 +451,7 @@ const Demo = () => {
                     <img
                       className="img-fluid"
                       src="/assets/img/demo/404.png"
-                      alt=""
+                      alt="FaconTech"
                     />
                   </div>
                   <div className="link">

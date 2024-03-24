@@ -14,7 +14,7 @@ const BlogDetailsSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/10_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div className="article-content">
@@ -70,7 +70,7 @@ const BlogDetailsSection = () => {
                     </p>
                     <br />
                     <div>
-                      <img src="/assets/img/blog/13_blog.png" alt="" />
+                      <img src="/assets/img/blog/13_blog.png" alt="FaconTech" />
                     </div>
                     <br />
                     <div>
@@ -88,7 +88,7 @@ const BlogDetailsSection = () => {
                         valuable and can provide a competitive edge to companies
                         with access to them. As a result, organizations may be
                         reluctant to share such data or make it publicly
-                        available.{" "}
+                        available.
                       </p>
                       <p>
                         Defined.ai stands on its principles of ethical AI.
@@ -103,18 +103,17 @@ const BlogDetailsSection = () => {
                         entities from a large corpus of labelled training data.
                         These algorithms can be trained to recognize a wide
                         range of named entities and can handle complex language,
-                        making them a more robust and flexible solution for NER.{" "}
+                        making them a more robust and flexible solution for NER.
                       </p>
                     </div>
                     <br />
                     <div>
-                      <img src="/assets/img/blog/14_blog.png" alt="" />
+                      <img src="/assets/img/blog/14_blog.png" alt="FaconTech" />
                     </div>
                     <br />
                     <br />
                     <div>
                       <h4>
-                        {" "}
                         What should i consider if I want to crowd source these
                         annotations in an ethical way?
                       </h4>
@@ -207,7 +206,7 @@ const BlogDetailsSection = () => {
                       <div className="profile">
                         <img
                           src="/assets/img/testimonial/01_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                     </div>
@@ -233,7 +232,7 @@ const BlogDetailsSection = () => {
                       <div className="profile">
                         <img
                           src="/assets/img/testimonial/02_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                     </div>
@@ -259,7 +258,7 @@ const BlogDetailsSection = () => {
                       <div className="profile">
                         <img
                           src="/assets/img/testimonial/03_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                     </div>
@@ -285,7 +284,7 @@ const BlogDetailsSection = () => {
                       <div className="profile">
                         <img
                           src="/assets/img/testimonial/04_testimonial-profile.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </div>
                     </div>
@@ -312,7 +311,7 @@ const BlogDetailsSection = () => {
                     <h4>Leave a Reply</h4>
                     <p>
                       Your email address will not be published. Required fields
-                      are marked{" "}
+                      are marked
                     </p>
                   </div>
                   <div>
@@ -418,7 +417,10 @@ const BlogDetailsSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/01_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/01_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -433,7 +435,10 @@ const BlogDetailsSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/02_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/02_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -448,7 +453,10 @@ const BlogDetailsSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/03_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/03_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -463,7 +471,10 @@ const BlogDetailsSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/04_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/04_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -595,25 +606,25 @@ const BlogDetailsSection = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

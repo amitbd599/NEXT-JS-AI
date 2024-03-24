@@ -17,7 +17,7 @@ const AboutSectionThree = () => {
                   <img
                     className="img-fluid "
                     src="/assets/img/about/03_about.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
               </div>
@@ -44,7 +44,10 @@ const AboutSectionThree = () => {
                   <ul>
                     <li>
                       <span className="img-file">
-                        <img src="/assets/img/icon/33_icon.png" alt="" />
+                        <img
+                          src="/assets/img/icon/33_icon.png"
+                          alt="FaconTech"
+                        />
                       </span>
                       <div>
                         <h4>Machine Learning</h4>
@@ -58,7 +61,10 @@ const AboutSectionThree = () => {
                     </li>
                     <li>
                       <span className="img-file">
-                        <img src="/assets/img/icon/34_icon.png" alt="" />
+                        <img
+                          src="/assets/img/icon/34_icon.png"
+                          alt="FaconTech"
+                        />
                       </span>
                       <div>
                         <h4>AI Smart Solutions</h4>
@@ -80,12 +86,12 @@ const AboutSectionThree = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/shape/14_shape.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/84_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

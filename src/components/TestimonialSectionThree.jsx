@@ -16,7 +16,7 @@ const TestimonialSectionThree = () => {
               >
                 <h3>Our Customer Review</h3>
                 <h2>
-                  People reviews for us For <br /> Great{" "}
+                  People reviews for us For <br /> Great
                   <span className="theme-color">AI Service</span>
                 </h2>
               </div>
@@ -77,7 +77,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/01_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -107,7 +107,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/02_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -137,7 +137,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/03_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -167,7 +167,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/04_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -197,7 +197,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/05_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -227,7 +227,7 @@ const TestimonialSectionThree = () => {
                           <div className="img-file">
                             <img
                               src="/assets/img/testimonial/06_testimonial-profile.png"
-                              alt=""
+                              alt="FaconTech"
                             />
                           </div>
                           <div className="text-file">
@@ -256,27 +256,27 @@ const TestimonialSectionThree = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/92_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/16_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/95_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/03_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

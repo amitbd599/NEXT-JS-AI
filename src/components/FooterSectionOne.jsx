@@ -10,7 +10,10 @@ const FooterSectionOne = () => {
             <div className="col-lg-5 col-md-6 col-12">
               <div className="footer-wrapper one">
                 <div className="logo" data-aos="fade-up" data-aos-delay="200">
-                  <img src="/assets/img/common/logo-white.png" alt="" />
+                  <img
+                    src="/assets/img/common/logo-white.png"
+                    alt="FaconTech"
+                  />
                 </div>
                 <div className="des" data-aos="fade-up" data-aos-delay="300">
                   <p>
@@ -130,12 +133,12 @@ const FooterSectionOne = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/26_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/shape/08_shape.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </footer>

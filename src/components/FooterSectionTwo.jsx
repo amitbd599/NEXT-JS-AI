@@ -14,7 +14,10 @@ const FooterSectionTwo = () => {
             <div className="col-lg-5 col-md-6 col-12">
               <div className="footer-wrapper one">
                 <div className="logo" data-aos="fade-up" data-aos-delay="200">
-                  <img src="/assets/img/common/logo-white.png" alt="" />
+                  <img
+                    src="/assets/img/common/logo-white.png"
+                    alt="FaconTech"
+                  />
                 </div>
                 <div className="des" data-aos="fade-up" data-aos-delay="300">
                   <p>
@@ -133,7 +136,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/01_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>
@@ -142,7 +145,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/02_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>
@@ -151,7 +154,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/03_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>
@@ -160,7 +163,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/04_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>
@@ -169,7 +172,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/05_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>
@@ -178,7 +181,7 @@ const FooterSectionTwo = () => {
                       <img
                         className="img-fluid"
                         src="/assets/img/project/06_project.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </Link>
                   </li>

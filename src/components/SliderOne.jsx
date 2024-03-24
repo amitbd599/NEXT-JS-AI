@@ -56,7 +56,10 @@ const SliderOne = () => {
                     <div className="col-xl-5">
                       <div className="slider-content-inner-right">
                         <div className="img-wrapper">
-                          <img src="assets/img/hero/01_hero-image.png" alt="" />
+                          <img
+                            src="assets/img/hero/01_hero-image.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </div>
                     </div>
@@ -102,7 +105,10 @@ const SliderOne = () => {
                     <div className="col-xl-5">
                       <div className="slider-content-inner-right">
                         <div className="img-wrapper">
-                          <img src="assets/img/hero/02_hero-image.png" alt="" />
+                          <img
+                            src="assets/img/hero/02_hero-image.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </div>
                     </div>
@@ -148,7 +154,10 @@ const SliderOne = () => {
                     <div className="col-xl-5">
                       <div className="slider-content-inner-right">
                         <div className="img-wrapper">
-                          <img src="assets/img/hero/03_hero-image.png" alt="" />
+                          <img
+                            src="assets/img/hero/03_hero-image.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </div>
                     </div>
@@ -177,63 +186,63 @@ const SliderOne = () => {
               <img
                 className="img-fluid"
                 src="assets/img/icon/01_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-2 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/02_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-3 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/03_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-4 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/04_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-5 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/04_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-6 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/06_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-7 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/07_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-8 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/08_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
             <div className="inner-shape-9 poa">
               <img
                 className="img-fluid"
                 src="assets/img/icon/27_icon.png"
-                alt=""
+                alt="FaconTech"
               />
             </div>
           </div>

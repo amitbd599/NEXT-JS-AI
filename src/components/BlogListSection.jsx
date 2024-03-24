@@ -18,7 +18,7 @@ const BlogListSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/10_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div
@@ -81,7 +81,7 @@ const BlogListSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/11_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div
@@ -144,7 +144,7 @@ const BlogListSection = () => {
                   <img
                     className="img-fluid"
                     src="/assets/img/blog/12_blog.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                 </div>
                 <div
@@ -273,7 +273,10 @@ const BlogListSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/01_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/01_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -288,7 +291,10 @@ const BlogListSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/02_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/02_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -303,7 +309,10 @@ const BlogListSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/03_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/03_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -318,7 +327,10 @@ const BlogListSection = () => {
                     <article className="post-item">
                       <Link href="/blog-details">
                         <div className="img-file">
-                          <img src="/assets/img/blog/04_blog.png" alt="" />
+                          <img
+                            src="/assets/img/blog/04_blog.png"
+                            alt="FaconTech"
+                          />
                         </div>
                       </Link>
                       <div className="info">
@@ -450,25 +462,25 @@ const BlogListSection = () => {
         </div>
         <div className="shape-image-file">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

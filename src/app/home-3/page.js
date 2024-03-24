@@ -11,6 +11,8 @@ import ServiceSectionThree from "@/components/ServiceSectionThree";
 import SliderThree from "@/components/SliderThree";
 import TeamSectionTwo from "@/components/TeamSectionTwo";
 import TestimonialSectionThree from "@/components/TestimonialSectionThree";
+import Animation from "@/elements/Animation";
+import Preloader from "@/elements/Preloader";
 import { Fragment } from "react";
 
 export const metadata = {
@@ -22,6 +24,11 @@ export const metadata = {
 export default function Page() {
   return (
     <Fragment>
+      {/* Preloader */}
+      <Preloader />
+
+      {/* Animation init */}
+      <Animation />
       {/* Header Three */}
       <HeaderThree />
       {/* Slider Three */}

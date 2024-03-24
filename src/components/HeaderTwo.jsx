@@ -125,7 +125,7 @@ const HeaderTwo = () => {
                         <img
                           className="img-fluid"
                           src="assets/img/common/logo-white.png"
-                          alt=""
+                          alt="FaconTech"
                         />
                       </Link>
                     </div>
@@ -433,7 +433,7 @@ const HeaderTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/common/logo-black.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
               <p>
@@ -451,32 +451,32 @@ const HeaderTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/project/01_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <img
                   className="img-fluid"
                   src="/assets/img/project/02_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <img
                   className="img-fluid"
                   src="/assets/img/project/03_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <img
                   className="img-fluid"
                   src="/assets/img/project/04_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <img
                   className="img-fluid"
                   src="/assets/img/project/05_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
                 <img
                   className="img-fluid"
                   src="/assets/img/project/06_project.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
             </div>

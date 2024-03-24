@@ -21,7 +21,7 @@ const TestimonialSectionTwo = () => {
                   {"{"} TESTIMONIAL {"}"}
                 </h3>
                 <h2>
-                  People reviews for us For <br /> Great{" "}
+                  People reviews for us For <br /> Great
                   <span className="theme-color">AI Service</span>
                 </h2>
               </div>
@@ -71,7 +71,7 @@ const TestimonialSectionTwo = () => {
                             <div className="img-file">
                               <img
                                 src="/assets/img/testimonial/01_testimonial-profile.png"
-                                alt=""
+                                alt="FaconTech"
                               />
                             </div>
                           </div>
@@ -112,7 +112,7 @@ const TestimonialSectionTwo = () => {
                             <div className="img-file">
                               <img
                                 src="/assets/img/testimonial/02_testimonial-profile.png"
-                                alt=""
+                                alt="FaconTech"
                               />
                             </div>
                           </div>
@@ -153,7 +153,7 @@ const TestimonialSectionTwo = () => {
                             <div className="img-file">
                               <img
                                 src="/assets/img/testimonial/03_testimonial-profile.png"
-                                alt=""
+                                alt="FaconTech"
                               />
                             </div>
                           </div>
@@ -194,7 +194,7 @@ const TestimonialSectionTwo = () => {
                             <div className="img-file">
                               <img
                                 src="/assets/img/testimonial/04_testimonial-profile.png"
-                                alt=""
+                                alt="FaconTech"
                               />
                             </div>
                           </div>
@@ -245,37 +245,37 @@ const TestimonialSectionTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/17_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/16_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/15_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/77_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/89_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/41_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/icon/62_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

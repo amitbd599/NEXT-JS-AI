@@ -19,7 +19,7 @@ const SliderTwo = () => {
                 <img
                   className="w-100"
                   src="/assets/img/hero/04_hero-image.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
             </div>
@@ -38,7 +38,7 @@ const SliderTwo = () => {
                   A robot is a programmable machine that can complete a task,
                   while the term robotics describes the field of study focused
                   on developing robots and automation. Each robot has a
-                  different level of autonomy.{" "}
+                  different level of autonomy.
                 </p>
                 <div className="inner-btn">
                   <div>
@@ -58,7 +58,7 @@ const SliderTwo = () => {
                 <img
                   className="w-100"
                   src="/assets/img/hero/05_hero-image.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
             </div>
@@ -68,57 +68,57 @@ const SliderTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/41_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/68_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-4 poa"
             src="/assets/img/icon/67_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/51_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/icon/71_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-8 poa"
             src="/assets/img/icon/84_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-9 poa"
             src="/assets/img/icon/73_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-10 poa"
             src="/assets/img/icon/28_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-11 poa"
             src="/assets/img/icon/89_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

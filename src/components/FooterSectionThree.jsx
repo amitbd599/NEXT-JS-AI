@@ -62,7 +62,7 @@ const FooterSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/blog/01_blog.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                       </div>
@@ -72,8 +72,8 @@ const FooterSectionThree = () => {
                           business faster.
                         </Link>
                         <div>
-                          <i className="fa-sharp fa-regular fa-clock" />{" "}
-                          Wednesday, April 26, 2023{" "}
+                          <i className="fa-sharp fa-regular fa-clock" />
+                          Wednesday, April 26, 2023
                         </div>
                       </div>
                     </li>
@@ -83,7 +83,7 @@ const FooterSectionThree = () => {
                           <img
                             className="img-fluid"
                             src="/assets/img/blog/02_blog.png"
-                            alt=""
+                            alt="FaconTech"
                           />
                         </div>
                       </div>
@@ -93,8 +93,8 @@ const FooterSectionThree = () => {
                           objectives faster.
                         </Link>
                         <div>
-                          <i className="fa-sharp fa-regular fa-clock" />{" "}
-                          Wednesday, April 26, 2023{" "}
+                          <i className="fa-sharp fa-regular fa-clock" />
+                          Wednesday, April 26, 2023
                         </div>
                       </div>
                     </li>
@@ -134,7 +134,7 @@ const FooterSectionThree = () => {
           <img
             className="shape-2 poa"
             src="/assets/img/shape/04_shape.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </footer>

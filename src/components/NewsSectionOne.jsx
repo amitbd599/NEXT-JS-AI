@@ -46,12 +46,12 @@ const NewsSectionOne = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/60_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/61_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

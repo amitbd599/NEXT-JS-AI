@@ -36,7 +36,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/01_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -76,7 +76,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/02_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -116,7 +116,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/03_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -156,7 +156,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/04_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -196,7 +196,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/05_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -236,7 +236,7 @@ const ReviewSection = () => {
                     <div className="img-file">
                       <img
                         src="/assets/img/testimonial/06_testimonial-profile.png"
-                        alt=""
+                        alt="FaconTech"
                       />
                     </div>
                   </div>
@@ -288,25 +288,25 @@ const ReviewSection = () => {
         </div>
         <div className="shape-image">
           <div className="shape-img-1 poa">
-            <img src="/assets/img/icon/21_icon.png" alt="" />
+            <img src="/assets/img/icon/21_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-2 poa">
-            <img src="/assets/img/icon/64_icon.png" alt="" />
+            <img src="/assets/img/icon/64_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-4 poa">
-            <img src="/assets/img/icon/08_icon.png" alt="" />
+            <img src="/assets/img/icon/08_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-5 poa">
-            <img src="/assets/img/icon/78_icon.png" alt="" />
+            <img src="/assets/img/icon/78_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-6 poa">
-            <img src="/assets/img/icon/43_icon.png" alt="" />
+            <img src="/assets/img/icon/43_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-7 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-img-8 poa">
-            <img src="/assets/img/icon/71_icon.png" alt="" />
+            <img src="/assets/img/icon/71_icon.png" alt="FaconTech" />
           </div>
         </div>
       </section>

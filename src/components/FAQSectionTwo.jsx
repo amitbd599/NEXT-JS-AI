@@ -16,7 +16,7 @@ const FAQSectionTwo = () => {
                 <img
                   className="img-fluid"
                   src="/assets/img/tech/02_tech.png"
-                  alt=""
+                  alt="FaconTech"
                 />
               </div>
             </div>
@@ -30,7 +30,7 @@ const FAQSectionTwo = () => {
                   <div className="section-title-shape-one left">
                     <h3>FAQ For Artificial Intelligence </h3>
                     <h2>
-                      The goal of Artificial <br />{" "}
+                      The goal of Artificial <br />
                       <span className="theme-color">intelligence</span>.
                     </h2>
                   </div>
@@ -79,7 +79,7 @@ const FAQSectionTwo = () => {
                           aria-expanded="false"
                           aria-controls="flush-collapseTwo"
                         >
-                          What is the difference between Data Analyst?{" "}
+                          What is the difference between Data Analyst?
                         </button>
                       </h2>
                       <div
@@ -172,17 +172,17 @@ const FAQSectionTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/57_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/22_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/75_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

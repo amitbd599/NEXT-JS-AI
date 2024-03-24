@@ -18,7 +18,7 @@ const ServiceSectionTwo = () => {
                   {"{"} ADVANCED SERVICES {"}"}
                 </h3>
                 <h2>
-                  Our Top Featured Solutions <br /> Transforming{" "}
+                  Our Top Featured Solutions <br /> Transforming
                   <span className="theme-color">AI Enterprises</span>
                 </h2>
               </div>
@@ -33,7 +33,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/31_icon.png" alt="" />
+                    <img src="/assets/img/icon/31_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -55,7 +55,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/32_icon.png" alt="" />
+                    <img src="/assets/img/icon/32_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -77,7 +77,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/33_icon.png" alt="" />
+                    <img src="/assets/img/icon/33_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -99,7 +99,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/34_icon.png" alt="" />
+                    <img src="/assets/img/icon/34_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -121,7 +121,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/35_icon.png" alt="" />
+                    <img src="/assets/img/icon/35_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -143,7 +143,7 @@ const ServiceSectionTwo = () => {
               >
                 <div className="wrapper-inner one">
                   <div className="img-file">
-                    <img src="/assets/img/icon/40_icon.png" alt="" />
+                    <img src="/assets/img/icon/40_icon.png" alt="FaconTech" />
                   </div>
                   <div className="text-file">
                     <h3>
@@ -170,42 +170,42 @@ const ServiceSectionTwo = () => {
           <img
             className="shape-1 poa"
             src="/assets/img/icon/65_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-2 poa"
             src="/assets/img/icon/28_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-3 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-5 poa"
             src="/assets/img/icon/43_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-6 poa"
             src="/assets/img/icon/27_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-7 poa"
             src="/assets/img/icon/71_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-8 poa"
             src="/assets/img/icon/74_icon.png"
-            alt=""
+            alt="FaconTech"
           />
           <img
             className="shape-10 poa"
             src="/assets/img/icon/66_icon.png"
-            alt=""
+            alt="FaconTech"
           />
         </div>
       </section>

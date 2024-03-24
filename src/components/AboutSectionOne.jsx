@@ -15,7 +15,7 @@ const AboutSectionOne = () => {
                     data-aos="fade-up"
                     data-aos-delay="200"
                     src="/assets/img/about/01_about.png"
-                    alt=""
+                    alt="FaconTech"
                   />
                   <div
                     className="shape-overlay "
@@ -24,7 +24,10 @@ const AboutSectionOne = () => {
                   >
                     <div className="overlay ">
                       <span>
-                        <img src="/assets/img/icon/44_icon.png" alt="" />
+                        <img
+                          src="/assets/img/icon/44_icon.png"
+                          alt="FaconTech"
+                        />
                       </span>
                       <h3>
                         Impressive Works <br /> Since 2010
@@ -43,7 +46,7 @@ const AboutSectionOne = () => {
                     </div>
                   </div>
                   <div className="shape-7 poa">
-                    <img src="/assets/img/icon/69_icon.svg" alt="" />
+                    <img src="/assets/img/icon/69_icon.svg" alt="FaconTech" />
                   </div>
                 </div>
               </div>
@@ -68,7 +71,10 @@ const AboutSectionOne = () => {
                   <ul>
                     <li>
                       <span className="img-file">
-                        <img src="/assets/img/icon/11_icon.png" alt="" />
+                        <img
+                          src="/assets/img/icon/11_icon.png"
+                          alt="FaconTech"
+                        />
                       </span>
                       <div>
                         <h4>100% Customer Satisfaction</h4>
@@ -82,7 +88,10 @@ const AboutSectionOne = () => {
                     </li>
                     <li>
                       <span className="img-file">
-                        <img src="/assets/img/icon/12_icon.png" alt="" />
+                        <img
+                          src="/assets/img/icon/12_icon.png"
+                          alt="FaconTech"
+                        />
                       </span>
                       <div>
                         <h4>Empowering People By Keeping</h4>
@@ -109,22 +118,22 @@ const AboutSectionOne = () => {
         </div>
         <div className="shape-img">
           <div className="shape-1 poa">
-            <img src="/assets/img/icon/10_icon.png" alt="" />
+            <img src="/assets/img/icon/10_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-2 poa">
-            <img src="/assets/img/icon/09_icon.png" alt="" />
+            <img src="/assets/img/icon/09_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-3 poa">
-            <img src="/assets/img/shape/01_shape.svg" alt="" />
+            <img src="/assets/img/shape/01_shape.svg" alt="FaconTech" />
           </div>
           <div className="shape-4 poa">
-            <img src="/assets/img/icon/63_icon.png" alt="" />
+            <img src="/assets/img/icon/63_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-5 poa">
-            <img src="/assets/img/icon/66_icon.png" alt="" />
+            <img src="/assets/img/icon/66_icon.png" alt="FaconTech" />
           </div>
           <div className="shape-6 poa">
-            <img src="/assets/img/icon/68_icon.png" alt="" />
+            <img src="/assets/img/icon/68_icon.png" alt="FaconTech" />
           </div>
         </div>
       </div>
