@@ -1,6 +1,5 @@
-import React from 'react'
-
-const Preloader = () => {
+export default function Loading() {
+    // You can add any UI inside Loading, including a Skeleton.
     return (
         <>
             {/* Preloader Start*/}
@@ -28,8 +27,5 @@ const Preloader = () => {
             </div>
             {/* preloader end */}
         </>
-
     )
-}
-
-export default Preloader
+  }

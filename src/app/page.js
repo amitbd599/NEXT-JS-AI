@@ -1,6 +1,5 @@
 "use client";
 import React, { Fragment, Suspense, useEffect, useState } from "react";
-import Preloader from "../elements/Preloader";
 import HeaderOne from "../components/HeaderOne";
 import Link from "next/link";
 const Demo = () => {

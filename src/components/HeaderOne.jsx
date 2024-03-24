@@ -65,7 +65,7 @@ const HeaderOne = () => {
             <div className="col-xl-3 col-lg-2 col-md-6 col-6">
               <div className="logo-area">
                 <div className="logo">
-                  <Link href="/index">
+                  <Link href="home-1">
                     <img
                       className="img-fluid"
                       src="assets/img/common/logo-white.png"
@@ -81,19 +81,19 @@ const HeaderOne = () => {
                   <nav>
                     <ul>
                       <li className="has-dropdown">
-                        <Link href="/index">Home</Link>
+                        <Link href="home-1">Home</Link>
                         <ul className="sub-menu">
                           <li>
                             <Link href="/">Demo</Link>
                           </li>
                           <li>
-                            <Link href="/index">Home One</Link>
+                            <Link href="home-1">Home One</Link>
                           </li>
                           <li>
-                            <Link href="/index-2">Home Two</Link>
+                            <Link href="home-2">Home Two</Link>
                           </li>
                           <li>
-                            <Link href="/index-3">Home Three</Link>
+                            <Link href="home-3">Home Three</Link>
                           </li>
                         </ul>
                       </li>
@@ -133,7 +133,7 @@ const HeaderOne = () => {
                         </ul>
                       </li>
                       <li className="has-dropdown">
-                        <Link href="blog-grid">Blog</Link>
+                        <Link href="#">Blog</Link>
                         <ul className="sub-menu">
                           <li>
                             <Link href="/blog-grid">Blog-Grid</Link>
@@ -195,7 +195,7 @@ const HeaderOne = () => {
           </div>
           <div className="sidebar__content">
             <div className="sidebar-logo mb-40 mt-40">
-              <Link href="/index">
+              <Link href="home-1">
                 <img src="assets/img/common/logo-white.png" alt="logo" />
               </Link>
             </div>
@@ -210,16 +210,16 @@ const HeaderOne = () => {
             <nav className="offcanvas-navigation" id="offcanvas-navigation">
               <ul>
                 <li className="menu-item-has-children">
-                  <Link href="/index">Home</Link>
+                  <Link href="home-1">Home</Link>
                   <ul className="sub-menu">
                     <li className="active">
-                      <Link href="/index">Home One</Link>
+                      <Link href="home-1">Home One</Link>
                     </li>
                     <li>
-                      <Link href="/index-2">Home Two</Link>
+                      <Link href="home-2">Home Two</Link>
                     </li>
                     <li>
-                      <Link href="/index-3">Home Three</Link>
+                      <Link href="home-3">Home Three</Link>
                     </li>
                   </ul>
                 </li>

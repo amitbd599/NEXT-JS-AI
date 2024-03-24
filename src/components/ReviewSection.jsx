@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const ReviewSection = () => {
   return (
@@ -258,26 +258,26 @@ const ReviewSection = () => {
               >
                 <ul>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-left" />
                     </Link>
                   </li>
                   <li>
-                    <Link className="active" to="#">
+                    <Link className="active" href="#">
                       1
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">2</Link>
+                    <Link href="#">2</Link>
                   </li>
                   <li>
-                    <Link to="#">3</Link>
+                    <Link href="#">3</Link>
                   </li>
                   <li>
-                    <Link to="#">4</Link>
+                    <Link href="#">4</Link>
                   </li>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-right" />
                     </Link>
                   </li>

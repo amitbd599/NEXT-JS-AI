@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const BlogGridSidebarSection = () => {
   return (
@@ -47,7 +47,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             Professional Technology information &amp;
                             Solutions...
                           </Link>
@@ -97,7 +97,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             We offer AI consulting services and solutions...
                           </Link>
                         </h2>
@@ -146,7 +146,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             AI Services is a collection with prebuilt...
                           </Link>
                         </h2>
@@ -195,7 +195,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             The Security Risks Of Changing Owners...
                           </Link>
                         </h2>
@@ -244,7 +244,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             Avenga AI services help companies create AI...
                           </Link>
                         </h2>
@@ -293,7 +293,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             Use the same proven AI power AI capabilities...
                           </Link>
                         </h2>
@@ -342,7 +342,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             The Security Risks Of Changing Owners...
                           </Link>
                         </h2>
@@ -391,7 +391,7 @@ const BlogGridSidebarSection = () => {
                       </div>
                       <div className="title">
                         <h2>
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             Avenga AI services help companies create AI...
                           </Link>
                         </h2>
@@ -413,26 +413,26 @@ const BlogGridSidebarSection = () => {
                   >
                     <ul>
                       <li>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-regular fa-chevrons-left" />
                         </Link>
                       </li>
                       <li>
-                        <Link className="active" to="#">
+                        <Link className="active" href="#">
                           1
                         </Link>
                       </li>
                       <li>
-                        <Link to="#">2</Link>
+                        <Link href="#">2</Link>
                       </li>
                       <li>
-                        <Link to="#">3</Link>
+                        <Link href="#">3</Link>
                       </li>
                       <li>
-                        <Link to="#">4</Link>
+                        <Link href="#">4</Link>
                       </li>
                       <li>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-regular fa-chevrons-right" />
                         </Link>
                       </li>
@@ -476,7 +476,7 @@ const BlogGridSidebarSection = () => {
                       <h2>Recent Posts</h2>
                     </div>
                     <article className="post-item">
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         <div className="img-file">
                           <img src="/assets/img/blog/01_blog.png" alt="" />
                         </div>
@@ -484,14 +484,14 @@ const BlogGridSidebarSection = () => {
                       <div className="info">
                         <time dateTime="2023-06-19">May 26, 2023</time>
                         <h4 className="title">
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             AI consulting services and solutions that will help.
                           </Link>
                         </h4>
                       </div>
                     </article>
                     <article className="post-item">
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         <div className="img-file">
                           <img src="/assets/img/blog/02_blog.png" alt="" />
                         </div>
@@ -499,14 +499,14 @@ const BlogGridSidebarSection = () => {
                       <div className="info">
                         <time dateTime="2023-06-19">May 26, 2023</time>
                         <h4 className="title">
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             We will respond within one working day and arrange.
                           </Link>
                         </h4>
                       </div>
                     </article>
                     <article className="post-item">
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         <div className="img-file">
                           <img src="/assets/img/blog/03_blog.png" alt="" />
                         </div>
@@ -514,14 +514,14 @@ const BlogGridSidebarSection = () => {
                       <div className="info">
                         <time dateTime="2023-06-19">May 26, 2023</time>
                         <h4 className="title">
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             An expert matching your market niche and industry.
                           </Link>
                         </h4>
                       </div>
                     </article>
                     <article className="post-item">
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         <div className="img-file">
                           <img src="/assets/img/blog/04_blog.png" alt="" />
                         </div>
@@ -529,7 +529,7 @@ const BlogGridSidebarSection = () => {
                       <div className="info">
                         <time dateTime="2023-06-19">May 26, 2023</time>
                         <h4 className="title">
-                          <Link to="/blog-details">
+                          <Link href="/blog-details">
                             You will get a service suite offering, including
                             time.
                           </Link>
@@ -550,27 +550,27 @@ const BlogGridSidebarSection = () => {
                     <div className="social">
                       <ul>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <i className="fa-brands fa-facebook-f" />
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <i className="fa-brands fa-twitter" />
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <i className="fa-brands fa-linkedin-in" />
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <i className="fa-brands fa-pinterest" />
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <i className="fa-brands fa-instagram" />
                           </Link>
                         </li>
@@ -590,37 +590,37 @@ const BlogGridSidebarSection = () => {
                     <div className="list-inner">
                       <ul>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>Business</span>
                             <span>(8)</span>
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>Finance</span>
                             <span>(10)</span>
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>Web Design</span>
                             <span>(3)</span>
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>Counseling</span>
                             <span>(5)</span>
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>IT Service</span>
                             <span>(11)</span>
                           </Link>
                         </li>
                         <li>
-                          <Link to="#">
+                          <Link href="#">
                             <span>AI software</span>
                             <span>(12)</span>
                           </Link>
@@ -639,13 +639,13 @@ const BlogGridSidebarSection = () => {
                       <h2>Tags</h2>
                     </div>
                     <div className="list-grid">
-                      <Link to="#">Machine Learning (4)</Link>
-                      <Link to="#">ICT Book (6)</Link>
-                      <Link to="#">Technology (2)</Link>
-                      <Link to="#">Robot (3)</Link>
-                      <Link to="#">AI Tech (11)</Link>
-                      <Link to="#">Intelligence (6)</Link>
-                      <Link to="#">Artificial (3)</Link>
+                      <Link href="#">Machine Learning (4)</Link>
+                      <Link href="#">ICT Book (6)</Link>
+                      <Link href="#">Technology (2)</Link>
+                      <Link href="#">Robot (3)</Link>
+                      <Link href="#">AI Tech (11)</Link>
+                      <Link href="#">Intelligence (6)</Link>
+                      <Link href="#">Artificial (3)</Link>
                     </div>
                   </div>
                 </div>

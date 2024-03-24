@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const TeamSectionAll = () => {
   return (
@@ -30,16 +30,16 @@ const TeamSectionAll = () => {
                         <p>GeorgeYHuff@rhyta.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -70,16 +70,16 @@ const TeamSectionAll = () => {
                         <p>hompson@armyspy.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -110,16 +110,16 @@ const TeamSectionAll = () => {
                         <p>JoeyEDeal@dayrep.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -150,16 +150,16 @@ const TeamSectionAll = () => {
                         <p>orthyWBuggs@armyspy.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -190,16 +190,16 @@ const TeamSectionAll = () => {
                         <p>JeffreyDNaquin@jourrapide.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -230,16 +230,16 @@ const TeamSectionAll = () => {
                         <p>BeverlyJDillon@rhyta.com</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -270,16 +270,16 @@ const TeamSectionAll = () => {
                         <p>JeaniceKMedlin@teleworm.us</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -310,16 +310,16 @@ const TeamSectionAll = () => {
                         <p>JeaniceKMedlin@teleworm.us</p>
                       </div>
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -338,26 +338,26 @@ const TeamSectionAll = () => {
               >
                 <ul>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-left" />
                     </Link>
                   </li>
                   <li>
-                    <Link className="active" to="#">
+                    <Link className="active" href="#">
                       1
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">2</Link>
+                    <Link href="#">2</Link>
                   </li>
                   <li>
-                    <Link to="#">3</Link>
+                    <Link href="#">3</Link>
                   </li>
                   <li>
-                    <Link to="#">4</Link>
+                    <Link href="#">4</Link>
                   </li>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-right" />
                     </Link>
                   </li>

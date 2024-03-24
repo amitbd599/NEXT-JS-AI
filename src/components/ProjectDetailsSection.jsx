@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const ProjectDetailsSection = () => {
   return (
@@ -123,27 +123,27 @@ const ProjectDetailsSection = () => {
                 <div className="social">
                   <ul>
                     <li>
-                      <Link to="#">
+                      <Link href="#">
                         <i className="fa-brands fa-facebook-f" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="#">
+                      <Link href="#">
                         <i className="fa-brands fa-twitter" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="#">
+                      <Link href="#">
                         <i className="fa-brands fa-linkedin-in" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="#">
+                      <Link href="#">
                         <i className="fa-brands fa-pinterest" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="#">
+                      <Link href="#">
                         <i className="fa-brands fa-instagram" />
                       </Link>
                     </li>
