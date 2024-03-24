@@ -1,5 +1,4 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 
 const ProjectSectionTwo = () => {
   return (
@@ -38,14 +37,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Robotic Automation</Link>
+                    <Link href="/project-details">Robotic Automation</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -65,14 +64,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Machine Learning</Link>
+                    <Link href="/project-details">Machine Learning</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -92,14 +91,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Native Engagement</Link>
+                    <Link href="/project-details">Native Engagement</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -119,14 +118,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Robotic Process</Link>
+                    <Link href="/project-details">Robotic Process</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -146,14 +145,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Digital Money</Link>
+                    <Link href="/project-details">Digital Money</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -173,14 +172,14 @@ const ProjectSectionTwo = () => {
                 />
                 <div className="shape-overlay">
                   <h3>
-                    <Link to="/project-details">Native Engagement</Link>
+                    <Link href="/project-details">Native Engagement</Link>
                   </h3>
                   <p>
                     Oracle Cloud Infrastructure (OCI) AI Services is a
                     collection{" "}
                   </p>
                   <div className="d-flex justify-content-center">
-                    <Link className="default-btn" to="/project-details">
+                    <Link className="default-btn" href="/project-details">
                       Learn More
                     </Link>
                   </div>
@@ -190,7 +189,7 @@ const ProjectSectionTwo = () => {
           </div>
           <div className="inner-btn d-adjust">
             <div>
-              <Link className="default-btn" to="/contact">
+              <Link className="default-btn" href="/contact">
                 View All Projects
               </Link>
             </div>

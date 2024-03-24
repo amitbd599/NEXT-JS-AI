@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const FooterSectionTwo = () => {
   return (
@@ -36,7 +36,7 @@ const FooterSectionTwo = () => {
                         type="text"
                         placeholder="Enter Your Email Address"
                       />
-                      <Link className="submit" to="#">
+                      <Link className="submit" href="#">
                         Sign Up Free
                       </Link>
                     </div>
@@ -47,16 +47,16 @@ const FooterSectionTwo = () => {
                   data-aos="fade-up"
                   data-aos-delay="500"
                 >
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-facebook-f" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-twitter" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-linkedin-in" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-instagram" />
                   </Link>
                 </div>
@@ -69,28 +69,28 @@ const FooterSectionTwo = () => {
                 </h2>
                 <ul data-aos="fade-up" data-aos-delay="300">
                   <li>
-                    <Link to="#">About Us</Link>
+                    <Link href="#">About Us</Link>
                   </li>
                   <li>
-                    <Link to="#">Services</Link>
+                    <Link href="#">Services</Link>
                   </li>
                   <li>
-                    <Link to="#">Blog</Link>
+                    <Link href="#">Blog</Link>
                   </li>
                   <li>
-                    <Link to="#">Pricing Plan</Link>
+                    <Link href="#">Pricing Plan</Link>
                   </li>
                   <li>
-                    <Link to="#">Our Team</Link>
+                    <Link href="#">Our Team</Link>
                   </li>
                   <li>
-                    <Link to="#">All Projects</Link>
+                    <Link href="#">All Projects</Link>
                   </li>
                   <li>
-                    <Link to="#">Contact</Link>
+                    <Link href="#">Contact</Link>
                   </li>
                   <li>
-                    <Link to="#">Trams &amp; Condition</Link>
+                    <Link href="#">Trams &amp; Condition</Link>
                   </li>
                 </ul>
               </div>
@@ -102,22 +102,22 @@ const FooterSectionTwo = () => {
                 </h2>
                 <ul data-aos="fade-up" data-aos-delay="300">
                   <li>
-                    <Link to="#">Credit industry</Link>
+                    <Link href="#">Credit industry</Link>
                   </li>
                   <li>
-                    <Link to="#">Research sector</Link>
+                    <Link href="#">Research sector</Link>
                   </li>
                   <li>
-                    <Link to="#">Finance Sector</Link>
+                    <Link href="#">Finance Sector</Link>
                   </li>
                   <li>
-                    <Link to="#">Credit industry</Link>
+                    <Link href="#">Credit industry</Link>
                   </li>
                   <li>
-                    <Link to="#">AI Research</Link>
+                    <Link href="#">AI Research</Link>
                   </li>
                   <li>
-                    <Link to="#">ICT industry</Link>
+                    <Link href="#">ICT industry</Link>
                   </li>
                 </ul>
               </div>
@@ -129,7 +129,7 @@ const FooterSectionTwo = () => {
                 </h2>
                 <ul data-aos="fade-up" data-aos-delay="300">
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/01_project.png"
@@ -138,7 +138,7 @@ const FooterSectionTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/02_project.png"
@@ -147,7 +147,7 @@ const FooterSectionTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/03_project.png"
@@ -156,7 +156,7 @@ const FooterSectionTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/04_project.png"
@@ -165,7 +165,7 @@ const FooterSectionTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/05_project.png"
@@ -174,7 +174,7 @@ const FooterSectionTwo = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/project-details">
+                    <Link href="/project-details">
                       <img
                         className="img-fluid"
                         src="/assets/img/project/06_project.png"

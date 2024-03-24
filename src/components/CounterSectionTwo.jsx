@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import CountUp from "react-countup";
 import ReactVisibilitySensor from "react-visibility-sensor";
@@ -19,7 +20,7 @@ const CounterSectionTwo = () => {
                     <h2 className="counter">
                       <ReactVisibilitySensor>
                         {({ isVisible }) => (
-                          <div> {isVisible ? <CountUp end={420} /> : 0}</div>
+                          <span> {isVisible ? <CountUp end={420} /> : 0}</span>
                         )}
                       </ReactVisibilitySensor>
                     </h2>
@@ -40,7 +41,7 @@ const CounterSectionTwo = () => {
                     <h2 className="counter">
                       <ReactVisibilitySensor>
                         {({ isVisible }) => (
-                          <div> {isVisible ? <CountUp end={720} /> : 0}</div>
+                          <span> {isVisible ? <CountUp end={720} /> : 0}</span>
                         )}
                       </ReactVisibilitySensor>
                     </h2>
@@ -61,7 +62,7 @@ const CounterSectionTwo = () => {
                     <h2 className="counter">
                       <ReactVisibilitySensor>
                         {({ isVisible }) => (
-                          <div> {isVisible ? <CountUp end={450} /> : 0}</div>
+                          <span> {isVisible ? <CountUp end={450} /> : 0}</span>
                         )}
                       </ReactVisibilitySensor>
                     </h2>
@@ -82,7 +83,7 @@ const CounterSectionTwo = () => {
                     <h2 className="counter">
                       <ReactVisibilitySensor>
                         {({ isVisible }) => (
-                          <div> {isVisible ? <CountUp end={830} /> : 0}</div>
+                          <span> {isVisible ? <CountUp end={830} /> : 0}</span>
                         )}
                       </ReactVisibilitySensor>
                     </h2>

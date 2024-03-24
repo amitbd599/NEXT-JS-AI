@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const FooterSectionThree = () => {
   return (
@@ -34,16 +34,16 @@ const FooterSectionThree = () => {
                   data-aos="fade-up"
                   data-aos-delay="500"
                 >
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-facebook-f" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-twitter" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-linkedin-in" />
                   </Link>
-                  <Link to="#">
+                  <Link href="#">
                     <i className="fa-brands fa-instagram" />
                   </Link>
                 </div>
@@ -67,7 +67,7 @@ const FooterSectionThree = () => {
                         </div>
                       </div>
                       <div>
-                        <Link to="/blog-details">
+                        <Link href="/blog-details">
                           AI consulting services and solutions you achieve your
                           business faster.
                         </Link>
@@ -88,7 +88,7 @@ const FooterSectionThree = () => {
                         </div>
                       </div>
                       <div>
-                        <Link to="/blog-details">
+                        <Link href="/blog-details">
                           AI consulting services and solutions you achieve
                           objectives faster.
                         </Link>

@@ -13,6 +13,12 @@ import TeamSectionOne from "@/components/TeamSectionOne";
 import TestimonialSectionOne from "@/components/TestimonialSectionOne";
 import { Fragment } from "react";
 
+export const metadata = {
+  title: "Home || FaconTech - IT Technology and IT Solutions React Template",
+  description:
+    "FaconTech is an awesome IT Technology and IT Solutions HTML Template. This template was made with the latest Bootstrap and Sass.",
+};
+
 export default function Page() {
   return (
     <Fragment>

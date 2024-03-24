@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const PriceSectionTwo = () => {
   return (
@@ -57,7 +57,7 @@ const PriceSectionTwo = () => {
                   </div>
                   <div className="inner-btn d-adjust">
                     <div>
-                      <Link className="default-btn" to="#">
+                      <Link className="default-btn" href="#">
                         Purchase Now
                       </Link>
                     </div>
@@ -92,7 +92,7 @@ const PriceSectionTwo = () => {
                   </div>
                   <div className="inner-btn d-adjust">
                     <div>
-                      <Link className="default-btn" to="#">
+                      <Link className="default-btn" href="#">
                         Purchase Now
                       </Link>
                     </div>
@@ -127,7 +127,7 @@ const PriceSectionTwo = () => {
                   </div>
                   <div className="inner-btn d-adjust">
                     <div>
-                      <Link className="default-btn" to="#">
+                      <Link className="default-btn" href="#">
                         Purchase Now
                       </Link>
                     </div>

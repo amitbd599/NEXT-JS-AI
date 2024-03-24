@@ -1,6 +1,7 @@
+"use client";
 import Link from "next/link";
-// import CountUp from "react-countup";
-// import ReactVisibilitySensor from "react-visibility-sensor";
+import CountUp from "react-countup";
+import ReactVisibilitySensor from "react-visibility-sensor";
 
 const CounterSectionOne = () => {
   return (
@@ -119,13 +120,13 @@ const CounterSectionOne = () => {
                       >
                         <div className="count-body">
                           <h2 className="counter">
-                            {/* <ReactVisibilitySensor>
+                            <ReactVisibilitySensor>
                               {({ isVisible }) => (
-                                <div>
+                                <span>
                                   {isVisible ? <CountUp end={10} /> : 0}
-                                </div>
+                                </span>
                               )}
-                            </ReactVisibilitySensor> */}
+                            </ReactVisibilitySensor>
                           </h2>
                           <h4>+</h4>
                         </div>
@@ -140,13 +141,13 @@ const CounterSectionOne = () => {
                       >
                         <div className="count-body">
                           <h2 className="counter">
-                            {/* <ReactVisibilitySensor>
+                            <ReactVisibilitySensor>
                               {({ isVisible }) => (
-                                <div>
+                                <span>
                                   {isVisible ? <CountUp end={682} /> : 0}
-                                </div>
+                                </span>
                               )}
-                            </ReactVisibilitySensor> */}
+                            </ReactVisibilitySensor>
                           </h2>
                           <h4>+</h4>
                         </div>
@@ -163,13 +164,13 @@ const CounterSectionOne = () => {
                       >
                         <div className="count-body">
                           <h2 className="counter">
-                            {/* <ReactVisibilitySensor>
+                            <ReactVisibilitySensor>
                               {({ isVisible }) => (
-                                <div>
+                                <span>
                                   {isVisible ? <CountUp end={52} /> : 0}
-                                </div>
+                                </span>
                               )}
-                            </ReactVisibilitySensor> */}
+                            </ReactVisibilitySensor>
                           </h2>
                           <h4>+</h4>
                         </div>
@@ -184,13 +185,13 @@ const CounterSectionOne = () => {
                       >
                         <div className="count-body">
                           <h2 className="counter">
-                            {/* <ReactVisibilitySensor>
+                            <ReactVisibilitySensor>
                               {({ isVisible }) => (
-                                <div>
+                                <span>
                                   {isVisible ? <CountUp end={43} /> : 0}
-                                </div>
+                                </span>
                               )}
-                            </ReactVisibilitySensor> */}
+                            </ReactVisibilitySensor>
                           </h2>
                           <h4>+</h4>
                         </div>

@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const BlogGridSection = () => {
   return (
@@ -45,7 +45,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         Professional Technology information &amp; Solutions...
                       </Link>
                     </h2>
@@ -94,7 +94,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         We offer AI consulting services and solutions...
                       </Link>
                     </h2>
@@ -143,7 +143,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         AI Services is a collection with prebuilt...
                       </Link>
                     </h2>
@@ -192,7 +192,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         The Security Risks Of Changing Owners...
                       </Link>
                     </h2>
@@ -241,7 +241,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         Avenga AI services help companies create AI...
                       </Link>
                     </h2>
@@ -290,7 +290,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         Use the same proven AI power AI capabilities...
                       </Link>
                     </h2>
@@ -339,7 +339,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         The Security Risks Of Changing Owners...
                       </Link>
                     </h2>
@@ -388,7 +388,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         Avenga AI services help companies create AI...
                       </Link>
                     </h2>
@@ -437,7 +437,7 @@ const BlogGridSection = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="/blog-details">
+                      <Link href="/blog-details">
                         Use the same proven AI power AI capabilities...
                       </Link>
                     </h2>
@@ -459,26 +459,26 @@ const BlogGridSection = () => {
               >
                 <ul>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-left" />
                     </Link>
                   </li>
                   <li>
-                    <Link className="active" to="#">
+                    <Link className="active" href="#">
                       1
                     </Link>
                   </li>
                   <li>
-                    <Link to="#">2</Link>
+                    <Link href="#">2</Link>
                   </li>
                   <li>
-                    <Link to="#">3</Link>
+                    <Link href="#">3</Link>
                   </li>
                   <li>
-                    <Link to="#">4</Link>
+                    <Link href="#">4</Link>
                   </li>
                   <li>
-                    <Link to="#">
+                    <Link href="#">
                       <i className="fa-regular fa-chevrons-right" />
                     </Link>
                   </li>

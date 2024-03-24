@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const TeamSectionTwo = () => {
   return (
@@ -38,16 +38,16 @@ const TeamSectionTwo = () => {
                   <div className="shape-overlay">
                     <div className="inner-data">
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -75,16 +75,16 @@ const TeamSectionTwo = () => {
                   <div className="shape-overlay">
                     <div className="inner-data">
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -112,16 +112,16 @@ const TeamSectionTwo = () => {
                   <div className="shape-overlay">
                     <div className="inner-data">
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>
@@ -149,16 +149,16 @@ const TeamSectionTwo = () => {
                   <div className="shape-overlay">
                     <div className="inner-data">
                       <div className="social one">
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-facebook-f" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-twitter" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-linkedin-in" />
                         </Link>
-                        <Link to="#">
+                        <Link href="#">
                           <i className="fa-brands fa-instagram" />
                         </Link>
                       </div>

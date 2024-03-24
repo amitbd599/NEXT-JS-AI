@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const FAQSectionThree = () => {
   return (
@@ -163,7 +163,7 @@ const FAQSectionThree = () => {
                   </div>
                   <div className="inner-btn d-adjust">
                     <div>
-                      <Link className="default-btn" to="/contact">
+                      <Link className="default-btn" href="/contact">
                         Contact Us
                       </Link>
                     </div>

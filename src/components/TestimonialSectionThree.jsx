@@ -1,4 +1,4 @@
-import React from "react";
+"use client";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, FreeMode, Thumbs, EffectFade } from "swiper";
 const TestimonialSectionThree = () => {

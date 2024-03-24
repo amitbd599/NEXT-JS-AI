@@ -1,5 +1,5 @@
+import Link from "next/link";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const BlogSectionTwo = () => {
   return (
@@ -57,7 +57,7 @@ const BlogSectionTwo = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="#">
+                      <Link href="#">
                         Professional Technology information &amp; Solutions...
                       </Link>
                     </h2>
@@ -65,7 +65,7 @@ const BlogSectionTwo = () => {
                       Lorem ipsum dolor sit amet, coned sectetur notte elit sed
                       do.
                     </p>
-                    <Link className="link" to="/blog-details">
+                    <Link className="link" href="/blog-details">
                       Read More
                     </Link>
                   </div>
@@ -104,7 +104,7 @@ const BlogSectionTwo = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="#">
+                      <Link href="#">
                         We offer AI consulting services and solutions...
                       </Link>
                     </h2>
@@ -112,7 +112,7 @@ const BlogSectionTwo = () => {
                       Lorem ipsum dolor sit amet, coned sectetur notte elit sed
                       do.
                     </p>
-                    <Link className="link" to="/blog-details">
+                    <Link className="link" href="/blog-details">
                       Read More
                     </Link>
                   </div>
@@ -151,7 +151,7 @@ const BlogSectionTwo = () => {
                   </div>
                   <div className="title">
                     <h2>
-                      <Link to="#">
+                      <Link href="#">
                         AI Services is a collection services with prebuilt...
                       </Link>
                     </h2>
@@ -159,7 +159,7 @@ const BlogSectionTwo = () => {
                       Lorem ipsum dolor sit amet, coned sectetur notte elit sed
                       do.
                     </p>
-                    <Link className="link" to="/blog-details">
+                    <Link className="link" href="/blog-details">
                       Read More
                     </Link>
                   </div>
@@ -169,7 +169,7 @@ const BlogSectionTwo = () => {
           </div>
           <div className="inner-btn d-adjust">
             <div>
-              <Link className="default-btn" to="/blog">
+              <Link className="default-btn" href="/blog">
                 View More Blogs
               </Link>
             </div>
