@@ -1,3 +1,4 @@
+import "./font.css";
 import "./globals.scss";
 import BootstrapInit from "@/elements/BootstrapInit";
 
