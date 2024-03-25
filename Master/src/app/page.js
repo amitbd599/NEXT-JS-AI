@@ -105,7 +105,7 @@ const Demo = () => {
           <br />
           <div className="row">
             <div className="col-lg-4 col-md-6 col-12">
-              <Link href="/index">
+              <Link href="/home-1">
                 <div className="wrapper">
                   <div
                     className="img-file "
@@ -125,7 +125,7 @@ const Demo = () => {
               </Link>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
-              <Link href="/index-2">
+              <Link href="/home-2">
                 <div
                   className="wrapper "
                   data-aos="fade-up"
@@ -145,7 +145,7 @@ const Demo = () => {
               </Link>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
-              <Link href="/index-3">
+              <Link href="/home-3">
                 <div
                   className="wrapper "
                   data-aos="fade-up"
