@@ -9,10 +9,10 @@ const ContactSection = () => {
     // Please See Documentation for more information
     emailjs
       .sendForm(
-        "**********", //YOUR_SERVICE_ID
-        "**********", //YOUR_TEMPLATE_ID
+        "service_ljx76ce", //YOUR_SERVICE_ID
+        "template_71bgc2q", //YOUR_TEMPLATE_ID
         form.current,
-        "**********" //YOUR_PUBLIC_KEY
+        "cwf8kROl5o3__96Ti" //YOUR_PUBLIC_KEY
       )
       .then(
         (result) => {
@@ -166,7 +166,7 @@ const ContactSection = () => {
                       <td>5pm - 9pm</td>
                     </tr>
                     <tr>
-                      <th scope="row">Monday - Friday</th>
+                      <th scope="row">Monday - Wednesday</th>
                       <td>Open</td>
                       <td>5pm - 9pm</td>
                     </tr>

@@ -43,7 +43,7 @@ const BlogSectionTwo = () => {
                     <div>
                       <div className="date">
                         <i className="fa-sharp fa-solid fa-calendar-days pe-1" />
-                        April 24, 2023
+                        3/4/2024
                       </div>
                       <div className="admin">
                         <i className="fa-solid fa-user pe-1" />
@@ -90,7 +90,7 @@ const BlogSectionTwo = () => {
                     <div>
                       <div className="date">
                         <i className="fa-sharp fa-solid fa-calendar-days pe-1" />
-                        April 24, 2023
+                        3/4/2024
                       </div>
                       <div className="admin">
                         <i className="fa-solid fa-user pe-1" />
@@ -137,7 +137,7 @@ const BlogSectionTwo = () => {
                     <div>
                       <div className="date">
                         <i className="fa-sharp fa-solid fa-calendar-days pe-1" />
-                        April 24, 2023
+                        3/4/2024
                       </div>
                       <div className="admin">
                         <i className="fa-solid fa-user pe-1" />

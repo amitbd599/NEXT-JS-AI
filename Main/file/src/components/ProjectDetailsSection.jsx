@@ -92,11 +92,11 @@ const ProjectDetailsSection = () => {
                   <ul>
                     <li>
                       <span>Start Date:</span>
-                      <span>Sunday, April 23, 2022</span>
+                      <span>Sunday, April 23, 2023</span>
                     </li>
                     <li>
                       <span>End Date:</span>
-                      <span>Sunday, April 23, 2023</span>
+                      <span>Sunday, April 23, 2024</span>
                     </li>
                     <li>
                       <span>Total Worker:</span>

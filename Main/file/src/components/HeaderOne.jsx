@@ -1,10 +1,10 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const HeaderOne = () => {
-  const pathname = usePathname();
+  const router = usePathname();
   const [active, setActive] = useState(false);
   const [scroll, setScroll] = useState(false);
 
@@ -84,51 +84,125 @@ const HeaderOne = () => {
                         <Link href="home-1">Home</Link>
                         <ul className="sub-menu">
                           <li>
-                            <Link href="/">Demo</Link>
+                            <Link
+                              href="/"
+                              className={router === "/" ? "active" : ""}
+                            >
+                              Demo
+                            </Link>
                           </li>
                           <li>
-                            <Link href="home-1">Home One</Link>
+                            <Link
+                              href="home-1"
+                              className={router === "/home-1" ? "active" : ""}
+                            >
+                              Home One
+                            </Link>
                           </li>
                           <li>
-                            <Link href="home-2">Home Two</Link>
+                            <Link
+                              href="home-2"
+                              className={router === "/home-2" ? "active" : ""}
+                            >
+                              Home Two
+                            </Link>
                           </li>
                           <li>
-                            <Link href="home-3">Home Three</Link>
+                            <Link
+                              href="home-3"
+                              className={router === "/home-3" ? "active" : ""}
+                            >
+                              Home Three
+                            </Link>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <Link href="/about">About Us</Link>
+                        <Link
+                          href="/about"
+                          className={router === "/about" ? "active" : ""}
+                        >
+                          About Us
+                        </Link>
                       </li>
                       <li className="has-dropdown">
                         <Link href="#">Pages</Link>
                         <ul className="sub-menu">
                           <li>
-                            <Link href="/team">Team</Link>
+                            <Link
+                              href="/team"
+                              className={router === "/team" ? "active" : ""}
+                            >
+                              Team
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/project">Project</Link>
+                            <Link
+                              href="/project"
+                              className={router === "/project" ? "active" : ""}
+                            >
+                              Project
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/project-details">Project Details</Link>
+                            <Link
+                              href="/project-details"
+                              className={
+                                router === "/project-details" ? "active" : ""
+                              }
+                            >
+                              Project Details
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/service">Service</Link>
+                            <Link
+                              href="/service"
+                              className={router === "/service" ? "active" : ""}
+                            >
+                              Service
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/service-details">Service Details</Link>
+                            <Link
+                              href="/service-details"
+                              className={
+                                router === "/service-details" ? "active" : ""
+                              }
+                            >
+                              Service Details
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/pricing">Pricing</Link>
+                            <Link
+                              href="/pricing"
+                              className={router === "/pricing" ? "active" : ""}
+                            >
+                              Pricing
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/review">Review</Link>
+                            <Link
+                              href="/review"
+                              className={router === "/review" ? "active" : ""}
+                            >
+                              Review
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/faq">FAQ</Link>
+                            <Link
+                              href="/faq"
+                              className={router === "/faq" ? "active" : ""}
+                            >
+                              FAQ
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/error">404 Page</Link>
+                            <Link
+                              href="/error"
+                              className={router === "/error" ? "active" : ""}
+                            >
+                              404 Page
+                            </Link>
                           </li>
                         </ul>
                       </li>
@@ -136,23 +210,54 @@ const HeaderOne = () => {
                         <Link href="#">Blog</Link>
                         <ul className="sub-menu">
                           <li>
-                            <Link href="/blog-grid">Blog-Grid</Link>
+                            <Link
+                              href="/blog-grid"
+                              className={
+                                router === "/blog-grid" ? "active" : ""
+                              }
+                            >
+                              Blog-Grid
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/blog-grid-sidebar">
+                            <Link
+                              href="/blog-grid-sidebar"
+                              className={
+                                router === "/blog-grid-sidebar" ? "active" : ""
+                              }
+                            >
                               Blog-Grid Sidebar
                             </Link>
                           </li>
                           <li>
-                            <Link href="/blog-list">Blog-List</Link>
+                            <Link
+                              href="/blog-list"
+                              className={
+                                router === "/blog-list" ? "active" : ""
+                              }
+                            >
+                              Blog-List
+                            </Link>
                           </li>
                           <li>
-                            <Link href="/blog-details">Blog Details</Link>
+                            <Link
+                              href="/blog-details"
+                              className={
+                                router === "/blog-details" ? "active" : ""
+                              }
+                            >
+                              Blog Details
+                            </Link>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <Link href="/contact">Contact</Link>
+                        <Link
+                          href="/contact"
+                          className={router === "/contact" ? "active" : ""}
+                        >
+                          Contact
+                        </Link>
                       </li>
                     </ul>
                   </nav>
@@ -213,48 +318,117 @@ const HeaderOne = () => {
                   <Link href="home-1">Home</Link>
                   <ul className="sub-menu">
                     <li className="active">
-                      <Link href="home-1">Home One</Link>
+                      <Link
+                        href="/home-1"
+                        className={router === "/home-1" ? "active" : ""}
+                      >
+                        Home One
+                      </Link>
                     </li>
                     <li>
-                      <Link href="home-2">Home Two</Link>
+                      <Link
+                        href="/home-2"
+                        className={router === "/home-1" ? "active" : ""}
+                      >
+                        Home Two
+                      </Link>
                     </li>
                     <li>
-                      <Link href="home-3">Home Three</Link>
+                      <Link
+                        href="/home-3"
+                        className={router === "/home-1" ? "active" : ""}
+                      >
+                        Home Three
+                      </Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <Link href="/about">About Us</Link>
+                  <Link
+                    href="/about"
+                    className={router === "/about" ? "active" : ""}
+                  >
+                    About Us
+                  </Link>
                 </li>
                 <li className="menu-item-has-children">
                   <Link href="#">Pages</Link>
                   <ul className="sub-menu">
                     <li>
-                      <Link href="/team">Team</Link>
+                      <Link
+                        href="/team"
+                        className={router === "/team" ? "active" : ""}
+                      >
+                        Team
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/project">Project</Link>
+                      <Link
+                        href="/project"
+                        className={router === "/project" ? "active" : ""}
+                      >
+                        Project
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/project-details">Project Details</Link>
+                      <Link
+                        href="/project-details"
+                        className={
+                          router === "/project-details" ? "active" : ""
+                        }
+                      >
+                        Project Details
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/service">Service</Link>
+                      <Link
+                        href="/service"
+                        className={router === "/service" ? "active" : ""}
+                      >
+                        Service
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/service-details">Service Details</Link>
+                      <Link
+                        href="/service-details"
+                        className={
+                          router === "/service-details" ? "active" : ""
+                        }
+                      >
+                        Service Details
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/pricing">Pricing</Link>
+                      <Link
+                        href="/pricing"
+                        className={router === "/pricing" ? "active" : ""}
+                      >
+                        Pricing
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/review">Review</Link>
+                      <Link
+                        href="/review"
+                        className={router === "/review" ? "active" : ""}
+                      >
+                        Review
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/faq">FAQ</Link>
+                      <Link
+                        href="/faq"
+                        className={router === "/faq" ? "active" : ""}
+                      >
+                        FAQ
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/error">404 Page</Link>
+                      <Link
+                        href="/error"
+                        className={router === "/error" ? "active" : ""}
+                      >
+                        404 Page
+                      </Link>
                     </li>
                   </ul>
                 </li>
@@ -262,21 +436,48 @@ const HeaderOne = () => {
                   <Link href="#">Blog</Link>
                   <ul className="sub-menu">
                     <li>
-                      <Link href="/blog-grid">Blog-Grid</Link>
+                      <Link
+                        href="/blog-grid"
+                        className={router === "/blog-grid" ? "active" : ""}
+                      >
+                        Blog-Grid
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/blog-grid-sidebar">Blog-Grid Sidebar</Link>
+                      <Link
+                        href="/blog-grid-sidebar"
+                        className={
+                          router === "/blog-grid-sidebar" ? "active" : ""
+                        }
+                      >
+                        Blog-Grid Sidebar
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/blog-list">Blog-List</Link>
+                      <Link
+                        href="/blog-list"
+                        className={router === "/blog-list" ? "active" : ""}
+                      >
+                        Blog-List
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/blog-details">Blog Details</Link>
+                      <Link
+                        href="/blog-details"
+                        className={router === "/blog-details" ? "active" : ""}
+                      >
+                        Blog Details
+                      </Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <Link href="/contact">Contact</Link>
+                  <Link
+                    href="/contact"
+                    className={router === "/contact" ? "active" : ""}
+                  >
+                    Contact
+                  </Link>
                 </li>
               </ul>
             </nav>

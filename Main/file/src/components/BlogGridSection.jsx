@@ -31,7 +31,7 @@ const BlogGridSection = () => {
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">Demarco</p>
                       </div>
                     </div>
                     <div>
@@ -39,7 +39,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -75,12 +75,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/02_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">J. Evelyn</p>
                       </div>
                     </div>
                     <div>
@@ -88,7 +88,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -124,12 +124,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/04_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">Bergmann</p>
                       </div>
                     </div>
                     <div>
@@ -137,7 +137,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -173,12 +173,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/05_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">R. Williams</p>
                       </div>
                     </div>
                     <div>
@@ -186,7 +186,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -222,12 +222,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/06_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">M. Norman</p>
                       </div>
                     </div>
                     <div>
@@ -235,7 +235,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -276,7 +276,7 @@ const BlogGridSection = () => {
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">Demarco</p>
                       </div>
                     </div>
                     <div>
@@ -284,7 +284,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -320,12 +320,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/07_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">A. Eaton</p>
                       </div>
                     </div>
                     <div>
@@ -333,7 +333,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -369,12 +369,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/02_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">J. Evelyn</p>
                       </div>
                     </div>
                     <div>
@@ -382,7 +382,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -418,12 +418,12 @@ const BlogGridSection = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/04_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">Bergmann</p>
                       </div>
                     </div>
                     <div>
@@ -431,7 +431,7 @@ const BlogGridSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>

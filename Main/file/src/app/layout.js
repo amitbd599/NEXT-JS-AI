@@ -10,7 +10,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <link rel="icon" href="/favicon.ico" sizes="any" />
       <BootstrapInit />
       <body suppressHydrationWarning={true}>{children}</body>
     </html>

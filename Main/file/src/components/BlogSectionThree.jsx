@@ -44,7 +44,7 @@ const BlogSectionThree = () => {
                   <div className="title">
                     <div className="date">
                       <span>
-                        <i className="fa-regular fa-clock" /> April 26, 2023
+                        <i className="fa-regular fa-clock" /> 3/4/2024
                       </span>
                     </div>
                     <h2>
@@ -78,7 +78,7 @@ const BlogSectionThree = () => {
                   <div className="title">
                     <div className="date">
                       <span>
-                        <i className="fa-regular fa-clock" /> April 26, 2023
+                        <i className="fa-regular fa-clock" /> 3/4/2024
                       </span>
                     </div>
                     <h2>
@@ -112,7 +112,7 @@ const BlogSectionThree = () => {
                   <div className="title">
                     <div className="date">
                       <span>
-                        <i className="fa-regular fa-clock" /> April 26, 2023
+                        <i className="fa-regular fa-clock" /> 3/4/2024
                       </span>
                     </div>
                     <h2>

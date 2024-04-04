@@ -1,9 +1,16 @@
+import Animation from "@/elements/Animation";
+import Preloader from "@/elements/Preloader";
 import Link from "next/link";
 import { Fragment } from "react";
 
 export default function NotFound() {
   return (
     <Fragment>
+      {/* Preloader */}
+      <Preloader />
+
+      {/* Animation init */}
+      <Animation />
       {/* Error Section start */}
       <section className="error-section">
         <div className="container">

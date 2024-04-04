@@ -212,7 +212,7 @@ const BlogDetailsSection = () => {
                     </div>
                     <div className="intro w-100">
                       <h3 className="name">Charles C. Ragsdale</h3>
-                      <p className="date">Friday, April 21, 2023 AT 12:53 AM</p>
+                      <p className="date">Wednesday, April 3, 2024 AT 12:53 AM</p>
                       <p className="text">
                         Open-source datasets are important for sentiment
                         analysis projects for several reasons. First and
@@ -238,7 +238,7 @@ const BlogDetailsSection = () => {
                     </div>
                     <div className="intro w-100">
                       <h3 className="name">Helen M. Sanchez</h3>
-                      <p className="date">Friday, April 21, 2023 AT 12:53 AM</p>
+                      <p className="date">Wednesday, April 3, 2024 AT 12:53 AM</p>
                       <p className="text">
                         Open-source datasets are important for sentiment
                         analysis projects for several reasons. First and
@@ -264,7 +264,7 @@ const BlogDetailsSection = () => {
                     </div>
                     <div className="intro w-100">
                       <h3 className="name">Nick Leaver</h3>
-                      <p className="date">Friday, April 21, 2023 AT 12:53 AM</p>
+                      <p className="date">Wednesday, April 3, 2024 AT 12:53 AM</p>
                       <p className="text">
                         Open-source datasets are important for sentiment
                         analysis projects for several reasons. First and
@@ -290,7 +290,7 @@ const BlogDetailsSection = () => {
                     </div>
                     <div className="intro w-100">
                       <h3 className="name">Mary J. Benedict</h3>
-                      <p className="date">Friday, April 21, 2023 AT 12:53 AM</p>
+                      <p className="date">Wednesday, April 3, 2024 AT 12:53 AM</p>
                       <p className="text">
                         Open-source datasets are important for sentiment
                         analysis projects for several reasons. First and
@@ -424,7 +424,7 @@ const BlogDetailsSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             AI consulting services and solutions that will help.
@@ -442,7 +442,7 @@ const BlogDetailsSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             We will respond within one working day and arrange.
@@ -460,7 +460,7 @@ const BlogDetailsSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             An expert matching your market niche and industry.
@@ -478,7 +478,7 @@ const BlogDetailsSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             You will get a service suite offering, including
