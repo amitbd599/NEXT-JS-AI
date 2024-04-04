@@ -73,7 +73,7 @@ const FooterSectionThree = () => {
                         </Link>
                         <div>
                           <i className="fa-sharp fa-regular fa-clock" />
-                          Wednesday, April 26, 2023
+                          Wednesday, 3/4/2024
                         </div>
                       </div>
                     </li>
@@ -94,7 +94,7 @@ const FooterSectionThree = () => {
                         </Link>
                         <div>
                           <i className="fa-sharp fa-regular fa-clock" />
-                          Wednesday, April 26, 2023
+                          Wednesday, 3/4/2024
                         </div>
                       </div>
                     </li>

@@ -447,10 +447,8 @@
                     &::after {
                       display: none;
                     }
-                  }
-                  &:hover,
-                  &.active {
-                    a {
+                    &:hover,
+                    &.active {
                       color: var(--theme-1);
                     }
                   }
@@ -498,7 +496,6 @@
           & > .sub-menu {
             max-height: 1000px;
             transition: all 0.5s ease-in-out;
-           
           }
         }
       }

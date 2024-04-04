@@ -33,7 +33,7 @@ const BlogGridSidebarSection = () => {
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">Demarco</p>
                           </div>
                         </div>
                         <div>
@@ -41,7 +41,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -78,12 +78,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/02_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">J. Evelyn</p>
                           </div>
                         </div>
                         <div>
@@ -91,7 +91,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -127,12 +127,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/04_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">Bergmann</p>
                           </div>
                         </div>
                         <div>
@@ -140,7 +140,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -176,12 +176,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/05_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">M. Norman</p>
                           </div>
                         </div>
                         <div>
@@ -189,7 +189,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -230,7 +230,7 @@ const BlogGridSidebarSection = () => {
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">Demarco</p>
                           </div>
                         </div>
                         <div>
@@ -238,7 +238,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -274,12 +274,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/06_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">M. Norman</p>
                           </div>
                         </div>
                         <div>
@@ -287,7 +287,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -323,12 +323,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/07_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">A. Eaton</p>
                           </div>
                         </div>
                         <div>
@@ -336,7 +336,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -372,12 +372,12 @@ const BlogGridSidebarSection = () => {
                         <div className="d-flex gap-3 align-items-center">
                           <div className="dp-img">
                             <img
-                              src="/assets/img/testimonial/01_testimonial-profile.png"
+                              src="/assets/img/testimonial/08_testimonial-profile.png"
                               alt="FaconTech"
                             />
                           </div>
                           <div>
-                            <p className="admin">Admin</p>
+                            <p className="admin">J. Evelyn</p>
                           </div>
                         </div>
                         <div>
@@ -385,7 +385,7 @@ const BlogGridSidebarSection = () => {
                             <span>
                               <i className="fa-solid fa-calendar-days" />
                             </span>
-                            <span>May 26, 2023</span>
+                            <span>3/4/2024</span>
                           </div>
                         </div>
                       </div>
@@ -485,7 +485,7 @@ const BlogGridSidebarSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             AI consulting services and solutions that will help.
@@ -503,7 +503,7 @@ const BlogGridSidebarSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             We will respond within one working day and arrange.
@@ -521,7 +521,7 @@ const BlogGridSidebarSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             An expert matching your market niche and industry.
@@ -539,7 +539,7 @@ const BlogGridSidebarSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             You will get a service suite offering, including

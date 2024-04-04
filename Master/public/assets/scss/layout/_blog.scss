@@ -67,7 +67,6 @@
             font-weight: 600;
             color: var(--text-p-1);
             font-size: 16px;
-            text-transform: lowercase;
           }
           span {
             color: var(--text-p-1);
@@ -507,7 +506,7 @@
           .admin,
           .comment {
             display: inline-block;
-            margin-right: 6px;
+            margin-right: 12px;
             color: var(--text-p-1);
           }
         }

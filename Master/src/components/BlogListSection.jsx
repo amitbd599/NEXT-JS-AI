@@ -32,7 +32,7 @@ const BlogListSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                     <div className="item">
@@ -95,7 +95,7 @@ const BlogListSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                     <div className="item">
@@ -158,7 +158,7 @@ const BlogListSection = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                     <div className="item">
@@ -280,7 +280,7 @@ const BlogListSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             AI consulting services and solutions that will help.
@@ -298,7 +298,7 @@ const BlogListSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             We will respond within one working day and arrange.
@@ -316,7 +316,7 @@ const BlogListSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             An expert matching your market niche and industry.
@@ -334,7 +334,7 @@ const BlogListSection = () => {
                         </div>
                       </Link>
                       <div className="info">
-                        <time dateTime="2023-06-19">May 26, 2023</time>
+                        <time dateTime="2023-06-19">3/4/2024</time>
                         <h4 className="title">
                           <Link href="/blog-details">
                             You will get a service suite offering, including

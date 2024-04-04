@@ -166,7 +166,7 @@ const ContactSection = () => {
                       <td>5pm - 9pm</td>
                     </tr>
                     <tr>
-                      <th scope="row">Monday - Friday</th>
+                      <th scope="row">Monday - Wednesday</th>
                       <td>Open</td>
                       <td>5pm - 9pm</td>
                     </tr>

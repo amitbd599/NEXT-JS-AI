@@ -45,7 +45,7 @@ const BlogSectionOne = () => {
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">T. Gibson</p>
                       </div>
                     </div>
                     <div>
@@ -53,7 +53,7 @@ const BlogSectionOne = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -87,12 +87,12 @@ const BlogSectionOne = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/02_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">Thompson</p>
                       </div>
                     </div>
                     <div>
@@ -100,7 +100,7 @@ const BlogSectionOne = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
@@ -134,12 +134,12 @@ const BlogSectionOne = () => {
                     <div className="d-flex gap-3 align-items-center">
                       <div className="dp-img">
                         <img
-                          src="/assets/img/testimonial/01_testimonial-profile.png"
+                          src="/assets/img/testimonial/04_testimonial-profile.png"
                           alt="FaconTech"
                         />
                       </div>
                       <div>
-                        <p className="admin">Admin</p>
+                        <p className="admin">W. Harding</p>
                       </div>
                     </div>
                     <div>
@@ -147,7 +147,7 @@ const BlogSectionOne = () => {
                         <span>
                           <i className="fa-solid fa-calendar-days" />
                         </span>
-                        <span>May 26, 2023</span>
+                        <span>3/4/2024</span>
                       </div>
                     </div>
                   </div>
